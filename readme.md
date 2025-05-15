@@ -15,5 +15,5 @@
 
 1.  克隆仓库：
     ```bash
-    git clone [https://github.com/你的用户名/SkyPeekWeatherApp.git](https://github.com/你的用户名/SkyPeekWeatherApp.git)
+    git clone [https://github.com/14sloop/SkyPeekWeatherApp.git](https://github.com/14sloop/SkyPeekWeatherApp.git)
     cd SkyPeekWeatherApp
